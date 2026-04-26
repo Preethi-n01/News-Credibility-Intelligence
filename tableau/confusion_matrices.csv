@@ -1,0 +1,13 @@
+Model,Type,Value,Actual,Predicted
+Logistic Regression,True Negative,690,Real,Real
+Logistic Regression,False Positive,0,Real,Fake
+Logistic Regression,False Negative,0,Fake,Real
+Logistic Regression,True Positive,1310,Fake,Fake
+Random Forest,True Negative,690,Real,Real
+Random Forest,False Positive,0,Real,Fake
+Random Forest,False Negative,0,Fake,Real
+Random Forest,True Positive,1310,Fake,Fake
+SVM,True Negative,690,Real,Real
+SVM,False Positive,0,Real,Fake
+SVM,False Negative,0,Fake,Real
+SVM,True Positive,1310,Fake,Fake

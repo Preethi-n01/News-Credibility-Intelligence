@@ -1,0 +1,22 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.venv/
+venv/
+ENV/
+env/
+
+# Streamlit
+.streamlit/
+static/
+
+# Data and Models (Keep models if they are small, but ignore large CSVs if needed)
+# data/
+# models/
+
+# OS files
+.DS_Store
+Thumbs.db

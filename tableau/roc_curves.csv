@@ -1,0 +1,18 @@
+Model,FPR,TPR,Point_ID
+Logistic Regression,0.0,0.0,0
+Logistic Regression,0.0,0.0007633587786259542,1
+Logistic Regression,0.0,1.0,2
+Logistic Regression,1.0,1.0,3
+Random Forest,0.0,0.0,0
+Random Forest,0.0,0.9801526717557252,1
+Random Forest,0.0,0.9931297709923664,2
+Random Forest,0.0,0.9969465648854962,3
+Random Forest,0.0,0.999236641221374,4
+Random Forest,0.0,1.0,5
+Random Forest,0.004347826086956522,1.0,6
+Random Forest,0.02463768115942029,1.0,7
+Random Forest,1.0,1.0,8
+SVM,0.0,0.0,0
+SVM,0.0,0.0007633587786259542,1
+SVM,0.0,1.0,2
+SVM,1.0,1.0,3
